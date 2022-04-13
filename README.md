@@ -1,0 +1,1 @@
+# 8ajarz_studying_projects
