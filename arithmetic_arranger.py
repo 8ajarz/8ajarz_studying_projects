@@ -49,5 +49,3 @@ def arithmetic_arranger(*args):
         if args[1] == True:
             arranged_problems = (f"""{firstRow}\n{secondRow}\n{highlight}\n{result}""")
     return arranged_problems
-
-arithmetic_arranger(['3801 - 2', '123 + 49'])
