@@ -30,6 +30,3 @@ def add_time(start, duration, *args):
             elif n_days > 1:
                 new_time = f"{new_hrs}:{new_mins} ({n_days} days later)"
                 return print(new_time)
-
-
-add_time("5:01 AM", "0:00")
